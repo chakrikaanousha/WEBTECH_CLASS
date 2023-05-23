@@ -24,6 +24,8 @@ PS C:\Users\chakr\Desktop\COLLEGE\PROJECTS!\PORTFOLIO\web tech>
 2. signin from the side bar through github
 3. local system ---> go to directory --> open an folder
 4. source control logo --> intialize repository
+5. commit and give a message
+
 
 
 5. terminal :
