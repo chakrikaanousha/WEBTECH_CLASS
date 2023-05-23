@@ -1,2 +1,0 @@
-action and method 
-data stored fetching the data 
